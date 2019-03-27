@@ -1,1 +1,1 @@
-https://rekurzion.github.io/technical-docs/ 
+https://rekurzion.github.io/fcc-technical-docs/ 
